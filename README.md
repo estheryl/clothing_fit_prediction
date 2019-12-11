@@ -1,7 +1,7 @@
 # Fit 2 Stitch
 USF MSDS Machine Learning Lab - Group Project
 
-#### Data: RentTheRunwayData
+#### Data: Rent The Runway Clothing Fit Feedback
 Rent the Runway is a billion dollar clothing rental service that's trying to transform how women shop
 
 ![alt text](https://socialmediaweek.org/wp-content/blogs.dir/1/files/rtr-1.jpg)
@@ -25,7 +25,9 @@ Sakshi Singla
 #### Goal:
 
 In today's world where the fast fashion industry is the second biggest polluter on earth, how can we use data science to help reduce the carbon footprint this industry has created?
+
 We look at Rent the Runway's dataset to see if we can predict whether the particular item on Rent the Runway will fit the customer or not based on past data collected for that item.
+
 Our model hopes to help reduce the cost and carbon footprint of shipping, as well as reducing the barriers to entry for a platform like Rent the Runway.
 
 
@@ -52,10 +54,4 @@ Compared various fitted model on basis on evaluation of validation set on metric
 
 Random forest performs the best for modeling our data.
 We could use size of the item, rating of the item, and a customer’s weight to provide item recommendation.
-
-
-
-
-
-
 
