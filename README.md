@@ -1,4 +1,4 @@
-# Predict Clothing Item Fit from RentTheRunway
+# Predicting Clothing Item Fit
 USF MSDS Machine Learning Lab - Group Project
 
 #### Data: Rent The Runway Clothing Fit Feedback
